@@ -6,3 +6,5 @@ Model 4: model 3, but much more training on gardening vs other corpus (increased
 
 The word2vec model should be already trained - the most up to date one is model_4
 
+Main program is similarity.py. Will output the top 3 most similar sentences, along with the angle between the query and
+the question.
