@@ -1,0 +1,2 @@
+Is my credit card information safe?
+The safety of your information is extremely important to us! To keep your information safe, your payment information goes directly to Stripe, a PCI Level I certified payment processing system that securely stores credit card information and processes your payments. Your payment information is never stored on our site.To learn more about Stripe's security features, please visit: https://stripe.com/help/security.

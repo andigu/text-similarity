@@ -1,0 +1,128 @@
+does this work
+('What are the benefits of mulch in my planting beds?', 1.3731729)
+("Can I put my services on hold while I'm on vacation?", 1.3837819)
+('What are the benefits of aeration and when should it be done?', 1.3843658)
+test
+('Can you accommodate preferences for service on a specific day of the week?', 1.2692744)
+('What if I want organic fertilizers and weed control?', 1.3089732)
+('How do you determine my service cost?', 1.3120252)
+testing
+('Can you accommodate preferences for service on a specific day of the week?', 1.2692744)
+('What if I want organic fertilizers and weed control?', 1.3089732)
+('How do you determine my service cost?', 1.3120252)
+testing
+('Can you accommodate preferences for service on a specific day of the week?', 1.2692744)
+('What if I want organic fertilizers and weed control?', 1.3089732)
+('How do you determine my service cost?', 1.3120252)
+do you guys do commercial areas
+('Does ezhome service commercial properties?', 1.193908)
+('Do I need to be home for your scheduled visits?', 1.3102036)
+('Can you use an electric blower at my home?', 1.335502)
+what if there was a storm
+('Will I still get service when it rains or shortly after it rains?', 1.2679785)
+('What time will the gardener arrive?', 1.387208)
+('How long after I sign up online does my service start?', 1.4227268)
+how often do you guys come
+('How long do I need to keep my kids and pets away after your weed spray application?', 1.4325192)
+('Will I still get service when it rains or shortly after it rains?', 1.448141)
+("I don't need my lawn mowed. How will this change my price?", 1.4924212)
+how often do you come
+('Will I still get service when it rains or shortly after it rains?', 1.4034705)
+('What are the benefits of mulch in my planting beds?', 1.48085)
+('When is ezhome open?', 1.486245)
+how often do i get service
+('When and how will I be billed for ezhome services?', 1.1640837)
+('Will I still get service when it rains or shortly after it rains?', 1.1794177)
+('How long after I sign up online does my service start?', 1.1868212)
+when does the gardener come
+('What time will the gardener arrive?', 0.63774133)
+('Will my gardener be the same every visit?', 0.79996455)
+('Are there tasks I should not ask gardeners to do?', 0.89052361)
+why do you guys use technology
+('How does technology help gardening?', 1.0500808)
+('Can you use an electric blower at my home?', 1.2222725)
+('How long do I need to keep my kids and pets away after your weed spray application?', 1.2864867)
+what's the point of tech
+('How long do I need to keep my kids and pets away after your weed spray application?', 1.4267918)
+('How do you determine my service cost?', 1.4365286)
+('Is ezhome insured?', 1.4549352)
+what's the point of technology
+('How does technology help gardening?', 1.1531343)
+('Why would I need an initial cleanup?', 1.3081557)
+('How do you determine my service cost?', 1.3250058)
+do you guys do flower or veg beds
+('Will ezhome service my flower beds, flower pots, and vegetable beds?', 0.72775847)
+('What are the benefits of mulch in my planting beds?', 1.1533899)
+("I don't need my lawn mowed. How will this change my price?", 1.1580276)
+what's your cancellation cost
+('How do you determine my service cost?', 1.1593713)
+('What is your cancellation/refund policy if I need to discontinue service?', 1.1623908)
+('Is ezhome more expensive than my current service?', 1.2933857)
+what's the cancellation cost
+('How do you determine my service cost?', 1.1593713)
+('What is your cancellation/refund policy if I need to discontinue service?', 1.1623908)
+('Is ezhome more expensive than my current service?', 1.2933857)
+how much do i have to pay if i cancel
+('What is your cancellation/refund policy if I need to discontinue service?', 0.99477035)
+('How can I pay for ezhome?', 0.9961974)
+('Is ezhome more expensive than my current service?', 1.3015007)
+when do you guys get here
+('How can I pay for ezhome?', 1.3498055)
+('How long do I need to keep my kids and pets away after your weed spray application?', 1.3561213)
+("I don't have a lawn anymore, what service will ezhome provide?", 1.3818561)
+when do you get here
+('How can I pay for ezhome?', 1.2447174)
+('Will I still get service when it rains or shortly after it rains?', 1.2967584)
+("Can I put my services on hold while I'm on vacation?", 1.3522696)
+when do you arrive
+('What time will the gardener arrive?', 0.98420197)
+('When is ezhome open?', 1.3107967)
+('Will my gardener be the same every visit?', 1.3710738)
+why does ezhome use gardeners instead of contractors
+('Why does ezhome have gardeners as employees vs contractors?', 0.69295698)
+('How does technology help gardening?', 1.1045321)
+('Will my gardener be the same every visit?', 1.1046876)
+will i have the same gardener every time
+('Will my gardener be the same every visit?', 0.62263042)
+('What time will the gardener arrive?', 0.75327808)
+('How does technology help gardening?', 0.9591732)
+do you have insurance
+('Is ezhome insured?', 0.00034526698)
+('How do you determine my service cost?', 1.2515026)
+('Can you use an electric blower at my home?', 1.3120183)
+what happens after it rains
+('Will I still get service when it rains or shortly after it rains?', 0.81037802)
+('What time will the gardener arrive?', 1.3247174)
+("I don't need my lawn mowed. How will this change my price?", 1.3431108)
+do i do things
+('Do you have a referral program?', 1.4507184)
+('How long after I sign up online does my service start?', 1.4528847)
+('Are there tasks I should not ask gardeners to do?', 1.4547945)
+what will you do for my lawn
+('I have artificial turf instead of lawn, how will this change my price?', 0.77567059)
+("I don't have a lawn anymore, what service will ezhome provide?", 0.78938282)
+("I don't need my lawn mowed. How will this change my price?", 0.8544876)
+what if it rained
+('Will I still get service when it rains or shortly after it rains?', 0.64538532)
+('What time will the gardener arrive?', 1.3307492)
+('Are there tasks I should not ask gardeners to do?', 1.3500347)
+opening time?
+('When is ezhome open?', 0.60529119)
+('What time will the gardener arrive?', 1.2376826)
+('Do I need to be home for your scheduled visits?', 1.28809)
+referrals?
+('Do you have a referral program?', 1.0586722)
+('Can you use an electric blower at my home?', 1.2812475)
+('Is ezhome insured?', 1.3392954)
+do you give discounts for referrals
+('How can I pay for ezhome?', 1.2160505)
+('What if I want organic fertilizers and weed control?', 1.3777188)
+("Can I put my services on hold while I'm on vacation?", 1.4176244)
+how am i charged
+('Does ezhome service commercial properties?', 1.37123)
+('How do you determine my service cost?', 1.4102131)
+('How long is a typical service visit?', 1.417596)
+how am i billed
+('When and how will I be billed for ezhome services?', 0.69294202)
+('Is my credit card information safe?', 1.1777034)
+('What is your cancellation/refund policy if I need to discontinue service?', 1.3032639)
